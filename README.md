@@ -1,4 +1,6 @@
 # ProcessController
+by Vladimir Adamskiy ([@vadamsky](https://github.com/vadamsky))
+
 ProcessController organizes a job queue (using multiprocessing.JoinableQueue) and parallel executes tasks from the queue.
 
 ## Methods
